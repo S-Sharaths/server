@@ -16,6 +16,11 @@
 #ifndef A2FIRSTTASK_HXX
 #define A2FIRSTTASK_HXX
 #include <tccore/method.h>
+#include <tccore/item.h>
+#include <tccore/license.h>
+#include <tccore/aom_prop.h>
+#include <tccore/aom.h>
+#include <tccore/grm.h>
 #include <A2customcode/liba2customcode_exports.h>
 #ifdef __cplusplus
          extern "C"{
